@@ -1,0 +1,3 @@
+[submodule "lib/HYPE_AS3"]
+	path = lib/HYPE_AS3
+	url = git@github.com:Quinten/HYPE_AS3.git
