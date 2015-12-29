@@ -1,3 +1,6 @@
 [submodule "lib/HYPE_AS3"]
 	path = lib/HYPE_AS3
 	url = git@github.com:Quinten/HYPE_AS3.git
+[submodule "lib/Papervision3D"]
+	path = lib/Papervision3D
+	url = git@github.com:Quinten/Papervision3D.git
