@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<blobStuff>
+	<blob>
+		<blobText>Behind every cloud there is a randomcolored lining.</blobText>
+		<blobPic>img/hyperrainbow.jpg</blobPic>
+		<blobSwf>hypercube/hyperrainbow.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Squares cloud.</blobText>
+		<blobPic>img/hypercross.jpg</blobPic>
+		<blobSwf>hypercube/hypercross.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Gravitational lines.</blobText>
+		<blobPic>img/pointgravity.jpg</blobPic>
+		<blobSwf>pointbounce/pointgravity.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Lines, lines and lines.</blobText>
+		<blobPic>img/pointbounce.jpg</blobPic>
+		<blobSwf>pointbounce/pointbounce.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Emerging buildings at 10 pm.</blobText>
+		<blobPic>img/hypercubefield.jpg</blobPic>
+		<blobSwf>hypercube/hypercubefield.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>A mouse following swarm.</blobText>
+		<blobPic>img/swarmMouse.jpg</blobPic>
+		<blobSwf>swarm/swarmMouse.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Anamorph replicating construction</blobText>
+		<blobPic>img/hypersnake.jpg</blobPic>
+		<blobSwf>hypercube/hypersnake.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Welcome to the sunrise forest.</blobText>
+		<blobPic>img/hypercilynder.jpg</blobPic>
+		<blobSwf>hypercube/hypercilynder.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Raining of cubes in 4 dimensional space.</blobText>
+		<blobPic>img/hypercube.jpg</blobPic>
+		<blobSwf>hypercube/hypercube.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>A HYPE swarm.</blobText>
+		<blobPic>img/swarm.jpg</blobPic>
+		<blobSwf>swarm/swarm.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Click anywhere to mess up the action painting.</blobText>
+		<blobPic>img/splatters.jpg</blobPic>
+		<blobSwf>splatters/splatters.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Leave messages on the virtual fridge by dragging the letters around.</blobText>
+		<blobPic>img/fridge_magnets.jpg</blobPic>
+		<blobSwf>fridge_magnets/fridge_magnets.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Its raining cubes again.</blobText>
+		<blobPic>img/cuberain.jpg</blobPic>
+		<blobSwf>cuberain/cuberain.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>The blob is always under construction.</blobText>
+		<blobPic>img/cubesnake.jpg</blobPic>
+		<blobSwf>cubesnake/cubesnake.swf</blobSwf>
+	</blob>
+	<blob>
+		<blobText>Five words made of cubes.</blobText>
+		<blobPic>img/5words.jpg</blobPic>
+		<blobSwf>5words/5words.swf</blobSwf>
+	</blob>
+</blobStuff>
